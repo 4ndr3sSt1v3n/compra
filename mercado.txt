@@ -3,5 +3,5 @@ moras
 fresa
 aguacate 
 frijoles 
-durazno 
+cerveza
 sopera
