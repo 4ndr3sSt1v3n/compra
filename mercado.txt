@@ -2,4 +2,6 @@ arroz
 moras
 fresa
 aguacate 
-frigoles 
+frijoles 
+durazno 
+sopera
